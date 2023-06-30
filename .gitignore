@@ -1,0 +1,9 @@
+*.txt
+*.png
+*.vismap
+*.exr
+*.convdata
+test/
+*.pdf
+*.pyc
+*.pt
